@@ -1,1 +1,1 @@
-Blog_Django
+Blog_in_Django
